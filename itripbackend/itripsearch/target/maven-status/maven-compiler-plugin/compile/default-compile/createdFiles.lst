@@ -1,0 +1,5 @@
+cn\bdqn\dao\BaseSolr.class
+cn\bdqn\entity\SearchHotelVO.class
+cn\bdqn\entity\Page.class
+cn\bdqn\Controller\SearchController.class
+cn\bdqn\entity\SearchHotCityVO.class
